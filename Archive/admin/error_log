@@ -1,0 +1,55 @@
+[14-Oct-2011 21:12:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: http://feed.ncsreporting.com/xmlfeedhandler.aspx?CDMNJcs%2fn34fXgcezzgtHQBXKH7wBPId:1: parser error : Start tag expected, '&lt;' not found in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ERROR: Invalid Affiliate ID in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php:42
+Stack trace:
+#0 /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php(42): SimpleXMLElement->__construct('http://feed.ncs...', 0, true)
+#1 /home/oscar497/public_html/cardguys.com/admin/index.php(27): xmlfeed->loadxml()
+#2 {main}
+  thrown in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:35] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: http://feed.ncsreporting.com/xmlfeedhandler.aspx?CDMNJcs%2fn34fXgcezzgtHQBXKH7wBPId:1: parser error : Start tag expected, '&lt;' not found in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:35] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ERROR: Invalid Affiliate ID in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:35] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[14-Oct-2011 21:12:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php:42
+Stack trace:
+#0 /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php(42): SimpleXMLElement->__construct('http://feed.ncs...', 0, true)
+#1 /home/oscar497/public_html/cardguys.com/admin/index.php(27): xmlfeed->loadxml()
+#2 {main}
+  thrown in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:06:39] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: http://feed.ncsreporting.com/xmlfeedhandler.aspx?CDMNJcs%2fn34fXgcezzgtHQBXKH7wBPId:1: parser error : Start tag expected, '&lt;' not found in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:06:39] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ERROR: Invalid Affiliate ID in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:06:39] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:06:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php:42
+Stack trace:
+#0 /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php(42): SimpleXMLElement->__construct('http://feed.ncs...', 0, true)
+#1 /home/oscar497/public_html/cardguys.com/admin/index.php(27): xmlfeed->loadxml()
+#2 {main}
+  thrown in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:10:05] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: http://feed.ncsreporting.com/xmlfeedhandler.aspx?CDMNJcs%2fn34fXgcezzgtHQBXKH7wBPId:1: parser error : Start tag expected, '&lt;' not found in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:10:05] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ERROR: Invalid Affiliate ID in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:10:05] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[15-Oct-2011 11:10:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php:42
+Stack trace:
+#0 /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php(42): SimpleXMLElement->__construct('http://feed.ncs...', 0, true)
+#1 /home/oscar497/public_html/cardguys.com/admin/index.php(27): xmlfeed->loadxml()
+#2 {main}
+  thrown in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[17-Oct-2011 18:44:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: http://feed.ncsreporting.com/xmlfeedhandler.aspx?CDMNJcs%2fn34fXgcezzgtHQBXKH7wBPId:1: parser error : Start tag expected, '&lt;' not found in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[17-Oct-2011 18:44:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ERROR: Invalid Affiliate ID in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[17-Oct-2011 18:44:15] PHP Warning:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[17-Oct-2011 18:44:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php:42
+Stack trace:
+#0 /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php(42): SimpleXMLElement->__construct('http://feed.ncs...', 0, true)
+#1 /home/oscar497/public_html/cardguys.com/admin/index.php(27): xmlfeed->loadxml()
+#2 {main}
+  thrown in /home/oscar497/public_html/cardguys.com/class/class_xmlfeed.php on line 42
+[17-Oct-2011 18:52:17] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_cards_quality.php on line 81
+[29-Oct-2011 14:12:06] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[29-Oct-2011 14:14:31] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[29-Oct-2011 14:15:42] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[29-Oct-2011 14:17:38] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[29-Oct-2011 14:19:05] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[29-Oct-2011 14:20:12] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[30-Oct-2011 09:54:25] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[30-Oct-2011 09:56:36] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/class/class_credit_cards.php on line 66
+[04-Apr-2012 08:11:09] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/oscar497/public_html/cardguys.com/Archive/class/class_cards_type.php on line 104

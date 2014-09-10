@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /class/
+Disallow: /fckeditor/
+Disallow: /language/
+Disallow: /js/

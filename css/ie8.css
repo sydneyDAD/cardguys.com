@@ -1,0 +1,26 @@
+html{
+
+}
+.middle-container{
+    width:100%;
+    border:none;
+    background-color:blue;
+    display:block;
+    background:url(../images/middle_background.jpg) !important
+    
+}
+.card_finder{
+    background:#7d7d7d !important;
+    filter: alpha(opacity=50);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+}
+.steps_head.else{
+    margin-left: 20px;
+}
+.styled-select.consumer img {
+    left: 97px !important;
+}
+
+.styled-select.credit img {
+    left: 145px !important;
+}

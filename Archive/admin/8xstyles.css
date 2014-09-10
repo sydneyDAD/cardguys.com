@@ -1,0 +1,152 @@
+body,td,input,option,select,a,table,form{
+	font-family: tahoma,arial; font-size: 11px; 
+	color: #474747;
+}
+form{margin: 0;}
+body{
+	margin: auto;
+	background: #FFF;
+}
+
+td{
+	padding: 5px;
+}
+img{
+	border: 0;
+}
+a{
+	text-decoration: none;
+}
+.clr,#bottom,.dot{
+	clear: both;
+}
+.text{
+	padding: 10px; min-height: 300px;
+}
+.text2{
+	padding: 5px;
+}
+.dot{
+	border-bottom: 1px dotted; height: 1px; font-size: 1px;
+}
+div.report{
+	text-align: center;
+}
+/************** General ***************/
+#site,#banner,#bottom{
+	width: 1000px;
+    margin: auto;
+}
+#left{
+	float: left; width: 230px; overflow: hidden;
+}
+#right{
+	float: right; width: 765px; overflow: hidden;
+}
+.border{
+	margin-left: 5px;
+	border: 1px solid #DDDDDD;
+}
+/**************** banner ********/
+#banner{
+	margin-bottom: 10px;
+}
+/********************************/
+.dtree {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666;
+	white-space: nowrap ;
+}
+.dtree img {
+	border: 0px;
+	vertical-align: middle;
+}
+.dtree a {
+	color: #333;
+	text-decoration: none;
+}
+.dtree a.node, .dtree a.nodeSel {
+	white-space: nowrap;
+	padding: 1px 1px 1px 1px;
+}
+.dtree a.node:hover, .dtree a.nodeSel:hover {
+	color: #333;
+	text-decoration: underline;
+}
+.dtree a.nodeSel {
+	background-color: #c0d2ec;
+}
+.dtree .clip {
+	overflow: hidden;
+}
+.left_menu{
+	float: left; overflow: hidden; border-right: 1px solid #333333; border-right-style: dotted;
+}
+.main{
+	width: 78%; float: right; overflow: hidden;	
+}
+table.admin_form_list{
+	width: 100%;
+	border-spacing: 1px;
+	background: #E7E7E7;
+	color: #666666;
+}
+tr.row1{
+	background: #F9F9F9;	
+}
+table.admin_form_lista,
+
+td.td_left{
+	width: 10%; height: 35px;
+	border-bottom: 1px solid #333333; text-align: right;
+}
+td.td_right{
+	width: 71%; padding-left: 20px;
+}
+
+/* login */
+a.title{
+	color: #0B55C4; font-size: 15px; font-weight: bold;
+}
+div.title{
+	margin: 15px; text-align: left; 
+}
+#center{
+	border: 1px solid #DDDDDD; width: 435px; margin-top: 120px;
+}
+#code_confirm{
+	margin-left: 10px; font-weight: bold;
+}
+/********************************/
+.title_module{
+	font-size: 13px; color: #CA4102; font-weight: bold;
+}
+.hr_module{
+	width: 100%; text-align: left;
+}
+tr.atitle td{
+	font-weight: bold; color: #0B55C4;
+}
+/************* phan trang **********/
+a.page,.current_page{
+	margin-right: 5px;
+}
+div.page_break{
+	text-align: right;
+}
+.page{
+	color: #0B55C4;
+}
+.current_page{
+	color: red; font-size: 12px;
+}
+.search{
+	margin: 0 0 10px 10px;
+}
+.designer{
+	color: #0B55C4; font-weight: bold; font-size: 25px;
+}
+#order_info td{
+	border-bottom: 1px dotted;
+}

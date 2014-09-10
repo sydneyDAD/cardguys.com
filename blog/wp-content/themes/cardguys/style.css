@@ -1,0 +1,344 @@
+/*
+Theme Name: Cardguys
+Theme URI: http://cardguys.com/blog/
+Description: Custom website Theme by E-PROMPT C.
+Version: 1.0
+Author: E-PROMPT C
+Author URI: http://www.epromptc.com
+*/
+
+/* page navi */
+.page-navi li { line-height:0%; display:block; float:left; }
+.page-navi a, .page-navi a:visited, .page-navi a:hover,
+.page-navi span.pages, .page-navi span.extend, .page-navi span.current, .page-navi span.dots
+{ font-size:11px; line-height:100%; margin:4px -1px 4px 0; padding:2px 10px; display:block; float:left; border-right:1px solid #555; border-left:1px solid #555; }
+
+
+
+.popular_p,.b_archives{
+	margin-top:15px;
+	margin-bottom:15px;
+	float:left !important;
+	margin-left:5px !important;
+	text-align:left;
+}
+
+.popular_p h3,.b_archives h3{
+	color:#039;
+}
+
+.popular_p img{
+	float:left;
+	margin-top:5px;
+	margin-right:5px; 
+}
+
+.popular_p .p_post{
+	margin-top:10px;
+	
+}
+.popular_p a{
+	text-decoration:none;
+}
+
+.wpp-excerpt{
+	font:normal 8pt arial,verdana !important;
+}
+
+.wpp-post-title, .b_item{
+	font:bold 9pt arial,verdana !important;	
+	color:#039;
+}
+
+.b_archives a{
+	margin-left:9px;
+	color:#039;
+}
+
+
+.comments_ input{
+	margin-top:3px !important;
+}
+
+.comments_ {
+	padding-top:20px;
+	color: #808080;
+}
+
+.post-footer {
+	color: #808080;	
+}
+
+.commentlist{
+	list-style-type: none;
+}
+
+.post-title2 a{
+	font-size:20px;
+	text-decoration:none;
+	padding-bottom: 10px;
+}
+
+.post-wrapper{
+margin-top:10px;
+margin-left:2px;
+width:640px;
+}
+
+.post-wrapper2{
+	
+}
+
+.inner_1{
+	margin-left:7px;
+}
+
+.titles2 a{
+	text-decoration:none;
+	font:normal 15pt arial,times;
+	color:#69c;
+	text-transform:capitalize;
+}
+
+.title1{
+	text-decoration:none;
+	font:bold 10pt arial,times;
+	color:#69c;
+	text-transform:uppercase;
+}
+
+.b_title{
+	font-size:20px;
+	margin-bottom:5px;
+	font-weight:bold;
+	color:#69c;
+}
+
+.post_author{
+	color:#999;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.post_author a{
+	color:#999;
+	text-decoration:none !important;
+}
+
+.blog_navi{
+	background-image:url('images/blog_navi.jpg');
+	background-repeat:no-repeat;
+	height:41px;
+	width:650px;
+	font:normal 11pt verdana;
+	color:#000;
+	padding:5px;
+	margin-left:5px;
+}
+
+.blog_textTitlemenu
+{
+	/*vertical-align:-10px;*/
+	background-image:url('images/blog_head.gif');
+	background-repeat:no-repeat;
+	background-color:#e9f0f3;
+	height:33px;
+	width:660px;
+	float:left;
+	margin-left:0px;
+	margin-bottom:7px;
+	text-align:left;
+	font-family:times,arial;
+	font-size:10pt;
+	font-weight:900;
+	color:#fff;
+	text-transform:uppercase;
+	position:relative;
+}
+
+.blog_textTitlemenu .text_span{
+	left:12px;
+	position:relative;
+	top:6px;
+}
+
+
+.blog_slider
+{
+	width:405px;
+	height:300px;
+	float:left;
+	margin-bottom:5px;
+	margin-right:10px;
+	border:0px solid #ccc;
+	/*border-bottom:1px solid #ccc;*/
+}
+
+.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignright {
+	float: right;
+	margin-left: 15px;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 15px;
+}
+
+
+
+
+/**/
+.pagination {
+/*clear:both;*/
+/*padding:20px 0;*/
+position:relative;
+font-size:11px;
+line-height:13px;
+}
+
+.pagination span, .pagination a {
+display:block;
+float:left;
+margin: 2px 2px 2px 0;
+padding:6px 9px 5px 9px;
+text-decoration:none;
+width:auto;
+/*color:#fff;*/
+color:#000;
+font-weight:bold;
+/*background: #555;*/
+}
+
+.pagination a:hover{
+color:#fff;
+background: #3279BB;
+}
+
+.pagination .current{
+padding:6px 9px 5px 9px;
+background: #3279BB;
+color:#fff;
+}
+/**/
+
+
+/* Additions by Barry */
+.box {
+	position:relative;
+	z-index: 1000;
+border: 1px solid #6f6f6f;
+padding: 5px 10px 5px 10px;
+width: 640px;
+margin-top: 0px;
+margin-left: 0px;
+margin-bottom: 10px;
+margin-right: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+float: left;
+text-align: left;
+/*
+-webkit-box-shadow: #666 0px 2px 3px;
+-moz-box-shadow: #666 0px 2px 3px;
+box-shadow: #666 0px 2px 3px; */
+background: #ffffff;
+/*background: -webkit-gradient(linear, 0 0, 0 bottom, from(#EEFF99), to(#66EE33));
+background: -moz-linear-gradient(#EEFF99, #66EE33);
+background: linear-gradient(#EEFF99, #66EE33);
+-pie-background: linear-gradient(#EEFF99, #66EE33);*/
+behavior: url(csspie/PIE.htc);
+}
+
+.boxpost {
+	position:relative;
+	z-index: 1000;
+border: 1px solid #6f6f6f;
+padding: 5px 10px 5px 10px;
+width: 640px;
+margin-top: 0px;
+margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+float: left;
+text-align: left;
+/*
+-webkit-box-shadow: #666 0px 2px 3px;
+-moz-box-shadow: #666 0px 2px 3px;
+box-shadow: #666 0px 2px 3px; */
+background: #ffffff;
+/*background: -webkit-gradient(linear, 0 0, 0 bottom, from(#EEFF99), to(#66EE33));
+background: -moz-linear-gradient(#EEFF99, #66EE33);
+background: linear-gradient(#EEFF99, #66EE33);
+-pie-background: linear-gradient(#EEFF99, #66EE33);*/
+behavior: url(csspie/PIE.htc);
+}
+
+.box_blog_top {
+	position:relative;
+	z-index: 1000;
+border: 1px solid #6f6f6f;
+padding: 5px 5px 5px 5px;
+width: 395px;
+margin: 0 10px 10px 0;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+float: left;
+/*
+-webkit-box-shadow: #666 0px 2px 3px;
+-moz-box-shadow: #666 0px 2px 3px;
+box-shadow: #666 0px 2px 3px; */
+background: #ffffff;
+/*background: -webkit-gradient(linear, 0 0, 0 bottom, from(#EEFF99), to(#66EE33));
+background: -moz-linear-gradient(#EEFF99, #66EE33);
+background: linear-gradient(#EEFF99, #66EE33);
+-pie-background: linear-gradient(#EEFF99, #66EE33);*/
+behavior: url(csspie/PIE.htc);
+z-index: 600;
+}
+
+.box_finder {
+	position:relative;
+	z-index: 1000;
+border: 1px solid #6f6f6f;
+padding: 5px 0px 5px 0px;
+width: 243px;
+margin: 0 10px 10px 0;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+float: left;
+/*
+-webkit-box-shadow: #666 0px 2px 3px;
+-moz-box-shadow: #666 0px 2px 3px;
+box-shadow: #666 0px 2px 3px; */
+background: #dee8ef;
+/*background: -webkit-gradient(linear, 0 0, 0 bottom, from(#EEFF99), to(#66EE33));
+background: -moz-linear-gradient(#EEFF99, #66EE33);
+background: linear-gradient(#EEFF99, #66EE33);
+-pie-background: linear-gradient(#EEFF99, #66EE33);*/
+behavior: url(csspie/PIE.htc);
+}
+
+.post_text {
+    float: left;
+    display: block;
+    text-align: left;
+    width: 600px !important;
+}
+
+#post-thumbnail {
+	float: right;
+	border: 1px solid black;
+	margin: 0 0 10px 10px;
+}

@@ -1,0 +1,6 @@
+Disallow: /js/
+sitemap: http://cdn.attracta.com/sitemap/2025984.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/2025985.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove

@@ -1,0 +1,123 @@
+html{
+    
+}
+.middle-container{
+    width:100%;
+    border:none;
+    background-color:blue;
+    display:block;
+    background:url(../images/middle_background.jpg) !important
+    
+}
+.banner-back{
+    top:-19px !important;
+}
+
+.nav ul li {
+    float:left;
+}
+select{
+    width:200px !important;
+    height:50px !important;
+    margin-top: 20px;
+}
+.styled-select{
+    background: none !important ;
+    border:none !important;
+    position: relative;
+    right:100px;
+}
+.styled-select img{
+    display:none;
+}
+
+.steps_info{
+    position: relative !important;
+    left:100px !important;
+}
+
+.styled-select select{
+    height:200px
+}
+.card_finder{
+    background:#7d7d7d !important;
+    filter: alpha(opacity=50);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+}
+.creditcardfinder{
+    float:none !important; 
+}
+.type-card {
+    right: 110px !important;
+}
+.search_button{
+    right:20px !important;
+}
+.card-content-infomation {
+    width: 205px !important;
+    margin-right: 10px !important;
+}
+.info-right {
+    width:80px !important;
+}
+.table-info{
+    height:545px !important;
+}
+.info-descx{
+    padding: 20px;
+    height:150px;
+}
+.creditcardbytype{
+    width:240px !important;
+}
+.categoryCardFooter4,.categoryCardFooter{
+    margin-top:0px;
+}
+.go-top{
+    display:none !important;
+}
+.inner-copyright-container{
+   width:100% !important;
+   padding-left: 50px !important;
+}
+.inner-copyright-container .right{
+    position: relative !important;
+    left:200px !important;
+    
+}
+.consumer{
+    right: -10px !important;
+    position: relative !important;
+}
+.credit{
+    left: 10px !important;
+    position: relative !important;
+}
+.offer{
+    left: 10px !important;
+    position: relative !important;
+}
+.search_button.else{
+    position: relative;
+    top:55px;
+    left:20px;
+}
+.steps_head.else{
+    margin-left: 20px;
+}
+.cardmenuFooter1 .post1{
+    display:none;
+}
+.text-title-Content-card-top h2 {
+    position: relative;
+    bottom:20px;
+}
+.slider-holder{
+    z-index: 1 !important;
+    position:relative !important;;
+    display:block !important;;
+}
+nav > ul > li > div{
+    width:auto;
+}
+
